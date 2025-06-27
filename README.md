@@ -1,4 +1,8 @@
-## Hi there 👋
+## 👋 Olá! Eu sou Diego Mangini
+
+🎓 Estudante de Tecnologia com foco em desenvolvimento de software.  
+💻 Apaixonado por programação, especialmente nas linguagens Java, HTML, CSS e JavaScript.  
+🚀 Buscando aprender constantemente e desenvolver projetos que contribuam para meu portfólio e crescimento profissional.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Diego-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
