@@ -5,7 +5,7 @@
 🚀 Buscando aprender constantemente e desenvolver projetos que contribuam para meu portfólio e crescimento profissional.
 
 ## Redes Sociais
-<a href="www.linkedin.com/in/diego-mangini-75399829a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/diego-mangini-75399829a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/notdieggo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <br/>
 <div style="display: inline_block"><br>
